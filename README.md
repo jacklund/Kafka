@@ -1,0 +1,2 @@
+# Kafka
+This is a project to utilize [kafka](http://kafka.apache.org/), which is an open-source distributed pub/sub framework, as a queue. Included is code to pull data off of the queue in the form of JSON-formatted strings.
